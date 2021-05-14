@@ -10,5 +10,5 @@ $ gmsh busemann.geo -3 -format msh2
 $ gmshToFoam busemann.msh
 
 # running
-$ cd <location>
+$ cd to the file location 
 then $ rhoCentralFoam
